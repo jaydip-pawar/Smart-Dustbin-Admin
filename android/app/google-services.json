@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "783809958520",
+    "firebase_url": "https://smart-dusty-default-rtdb.firebaseio.com",
+    "project_id": "smart-dusty",
+    "storage_bucket": "smart-dusty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783809958520:android:cfd5a49e96811013d7d38d",
+        "android_client_info": {
+          "package_name": "com.example.smart_dustbin_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783809958520-bds6s1jesl8228375t6p2bcgupaegt2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu12vpScj3SKHXB-lHP-JEoRRRFuIHlN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783809958520-bds6s1jesl8228375t6p2bcgupaegt2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783809958520:android:7ae0b027d68bda0bd7d38d",
+        "android_client_info": {
+          "package_name": "com.pp.smart_dustbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783809958520-lglhlt2evhc0kkts5plgbcjojg5lp77q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pp.smart_dustbin",
+            "certificate_hash": "a1ed1873566cadd0acb3107f834f5f1fbc48bd5a"
+          }
+        },
+        {
+          "client_id": "783809958520-bds6s1jesl8228375t6p2bcgupaegt2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu12vpScj3SKHXB-lHP-JEoRRRFuIHlN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783809958520-bds6s1jesl8228375t6p2bcgupaegt2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

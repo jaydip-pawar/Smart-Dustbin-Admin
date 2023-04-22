@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>783809958520-rfd3cjlbs417tttsofq3urlamc4pcfbg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.783809958520-rfd3cjlbs417tttsofq3urlamc4pcfbg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>783809958520-lglhlt2evhc0kkts5plgbcjojg5lp77q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUTjBHnP7quln52qAR4H_xyT3ypPIhgLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>783809958520</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smartDustbinAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>smart-dusty</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smart-dusty.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:783809958520:ios:f922ba80254947c6d7d38d</string>
+	<key>DATABASE_URL</key>
+	<string>https://smart-dusty-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
